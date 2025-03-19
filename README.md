@@ -1,4 +1,4 @@
-# Meu Aplicativo de Locais
+# Bora Lá?
 
 ## Descrição
 Este aplicativo permite aos usuários explorar, avaliar e gerenciar locais de interesse. Ele utiliza a API do Foursquare para buscar locais próximos e permite que os usuários adicionem seus próprios locais, avaliações e itinerários.
